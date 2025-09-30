@@ -48,7 +48,7 @@ Student Roll No. : 53
 Student Division : X
 
 s3.display :
-Student Name: Rachit
+Student Name: Dushal
 Student Roll No. : 53
 Student Division : X
 */
