@@ -23,9 +23,9 @@ int main(){
     //Syntax for Student Class Constuctor:- roll_no.,Name,Div
     int roll;string s;char c;
     Student s1;
-    Student s2(35);
-    Student s3(35,"Rachit");
-    Student s4(35,"Rachit",'A');
+    Student s2(53);
+    Student s3(53,"Dushal");
+    Student s4(53,"Dushal",'A');
     cout << "s1.display() :"<<endl;
      s1.display();
     cout << endl;
@@ -44,11 +44,11 @@ Student Division : X
 
 s2.display() :
 Student Name: xyz
-Student Roll No. : 35
+Student Roll No. : 53
 Student Division : X
 
 s3.display :
-Student Name: Rachit
-Student Roll No. : 35
+Student Name: Dushal
+Student Roll No. : 53
 Student Division : X
 */
